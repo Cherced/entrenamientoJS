@@ -1,0 +1,1 @@
+ejercicios de fuindamentos de poo js, y sugar sintax 
